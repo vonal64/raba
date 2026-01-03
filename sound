@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rába</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      background: #0f0f0f;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 720px;
+      margin: 20vh auto;
+      padding: 2rem;
+      text-align: center;
+    }
+    a {
+      color: #00ffd0;
+      text-decoration: none;
+      border: 1px solid #00ffd0;
+      padding: 0.75rem 1.25rem;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Rába Sound</h1>
+    <p>DIY High power 4-way HIFI Soundsystem</p>
+    <p>Giving voice to the underground it deserves</p>
+    <a href="mailto:rabasoundsystem@gmail.com">Contact</a>
+  </div>
+</body>
+</html>
